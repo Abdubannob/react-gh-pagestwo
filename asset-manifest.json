@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-gh-pagestwo/static/css/main.ffbbd30c.css",
-    "main.js": "/react-gh-pagestwo/static/js/main.5a66c085.js",
+    "main.js": "/react-gh-pagestwo/static/js/main.54d44fcf.js",
     "static/js/787.e3835ec5.chunk.js": "/react-gh-pagestwo/static/js/787.e3835ec5.chunk.js",
     "static/media/second.PNG": "/react-gh-pagestwo/static/media/second.af710b335b84ccd8e4be.PNG",
     "static/media/bmw.PNG": "/react-gh-pagestwo/static/media/bmw.b211caf9a716abbc73ea.PNG",
@@ -37,11 +37,11 @@
     "static/media/facebook.svg": "/react-gh-pagestwo/static/media/facebook.4d4460260f64103d8da4a91d8e856d36.svg",
     "static/media/search.svg": "/react-gh-pagestwo/static/media/search.b1f781b99ceaafb9c831949bb54ae3cd.svg",
     "main.ffbbd30c.css.map": "/react-gh-pagestwo/static/css/main.ffbbd30c.css.map",
-    "main.5a66c085.js.map": "/react-gh-pagestwo/static/js/main.5a66c085.js.map",
+    "main.54d44fcf.js.map": "/react-gh-pagestwo/static/js/main.54d44fcf.js.map",
     "787.e3835ec5.chunk.js.map": "/react-gh-pagestwo/static/js/787.e3835ec5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ffbbd30c.css",
-    "static/js/main.5a66c085.js"
+    "static/js/main.54d44fcf.js"
   ]
 }
